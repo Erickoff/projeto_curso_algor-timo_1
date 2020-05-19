@@ -1,10 +1,4 @@
-/*
- escreval("digite seu nome")
-   leia(nome)
-   escreval("digite sua idade")
-   leia(numero)
-   escreval(nome, " : ", numero, " Anos")
-*/
+
 
 var nome, numero
 
