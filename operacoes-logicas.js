@@ -1,21 +1,3 @@
-/*  passou:= falso
-escreval("digite o nome do Aluno:")
-leia(nome)
-escreval("digite a nota 1 do Aluno:")
-leia(nota01)
-escreval("digite a nota 2 do Aluno:")
-leia(nota02)
-media := (nota01 + nota02) / 2
-
-se media >= 50 entao
-   passou:= verdadeiro
-fimse
-
-se (passou) && (media >=50 || media <=70) entao
-   escreval(nome," Aprovado")
-senao
-     escreval(nome," Reprovado")
-fimse */
 
 var nome, nota01, nota02, passou;
 passou = false;
